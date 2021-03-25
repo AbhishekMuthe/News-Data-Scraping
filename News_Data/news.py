@@ -11,7 +11,7 @@ news_links = []
 search_no = 1
 search_result_no = []
 number = 0
-driver = webdriver.Chrome('C:/users/abhishek/Downloads/ChromeDriver/chromedriver.exe')
+driver = webdriver.Chrome('Add your path upto chromedriver.exe')
 driver.maximize_window()
 sleep(0.5)
 Domain = 'https://www.google.com'
